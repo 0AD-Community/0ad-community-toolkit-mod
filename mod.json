@@ -1,0 +1,9 @@
+{
+    "name": "community-toolkit",
+    "version": "27.0.0",
+    "label": "0 A.D. Community Toolkit",
+    "url": "https://github.com/0AD-Community/0ad-community-toolkit-mod",
+    "ignoreInCompatibilityChecks": true,
+    "description": "TODO",
+    "dependencies": ["0ad=0.0.27"]
+}
